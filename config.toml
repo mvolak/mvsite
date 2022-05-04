@@ -1,4 +1,4 @@
-baseURL                          = "https://github.com/mvolak/"   # Your domain name. Must end with "/"
+baseURL                          = "https://github.com/mvolak/mvsite"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
